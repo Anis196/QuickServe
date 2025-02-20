@@ -23,7 +23,7 @@ QuickServe is an online canteen food ordering and management system based on cas
 
 ## Footnote
 - Food,Shop images included in the img folder.
-- To install the QuickServe, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it foodcave in phpMyAdmin (http://localhost/phpmyadmin) using file foodcave.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/QuickServe/) and enjoy.
+- To install the QuickServe, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it QuickServe in phpMyAdmin (http://localhost/phpmyadmin) using file quickserve.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/QuickServe/) and enjoy.
 - You can register for the customer account and log in. To log in with admin account, press the log in with admin account under login page. Add shousing the admin mode. You can look up 
 
 Made By **Anis**
