@@ -11,13 +11,13 @@ Updated on: August 14th, 2024
 QuickServe is an online canteen food ordering and management system based on case scenario at JSPM's Rajarshi Shahu College of Engg, Pune. This system has 3 main group of users, customer, vendor(canteen owner) and admin. Customer can view shop and menu list, add item to the cart, place the order pay for order, and view their order history.Vendor can edit respective shop information, manage their menus, manage customer orders, and view revenue report.Admin has access to all things including customising menu, 
 
 ## Visuala 
-![Alt main-pg](imag/main-pg.png)
-![Alt main-menu-list](imag/main-menu-list.png)
-![Alt order-history](imag/order-history.png)
-![Alt vendor-dashboard](imag/vendor-dashboard.png)
-![Alt updating-order-status](imag/updating-order-status.png)
-![Alt menu-list](imag/menu-list.png)
-![Alt admin-dashboard](imag/admin-dashboard.png)
+![Alt main-pg](img/main-pg.png)
+![Alt main-menu-list](img/main-menu-list.png)
+![Alt order-history](img/order-history.png)
+![Alt vendor-dashboard](img/vendor-dashboard.png)
+![Alt updating-order-status](img/updating-order-status.png)
+![Alt menu-list](img/menu-list.png)
+![Alt admin-dashboard](img/admin-dashboard.png)
 
 
 ## Tools of Development
